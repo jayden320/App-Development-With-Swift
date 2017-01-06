@@ -1,36 +1,37 @@
-//: ## Pet Problem
-//: Imagine your friend is putting together a pet show and needs to keep track of how many animals of each kind will be in the show.
-//: Your friend also needs to know how many total animals and how many mammals will be at the show.
-//:
-//: Now imagine that all you have with you is a laptop with Xcode on it. Maybe you can use a playground to help your friend.
-//:
-//: Using what you know so far, you could keep track of the count for each animal using a comment and a number, like this:
-// Number Of Dogs
+//: ## 宠物问题
+//: 想象一下，你的朋友正在举办一场宠物秀，需要跟踪每一种动物在演出中的数量。
+//: 你的朋友还需要知道展会上动物的总数，哺乳动物的总数等。
+//: 
+//: 现在假设你手头上只有一台装着Xcode的笔记本。也许你可以使用playground来帮助你的朋友。
+//: 
+//: 使用目前为止所学到的内容，你可以使用注释和数字跟踪每个动物的数量，像这样:
+//狗的数量
 5
 
-// Number Of Cats
+//猫的数量
 4
 
-// Number Of Turtles
+//乌龟的数量
 3
-//: Then you could copy those numbers onto new lines of code and let the playground do some math for you, like this:
-// Total Number Of Animals
+//: 然后你可以将这些数字复制到新的一行，让playground为你做一些计算，像这样:
+//动物总数
 5 + 4 + 3
 
-// Total Number Of Mammals
+//哺乳动物总数
 5 + 4
-//: - experiment: As the week goes on, you get more information about what pets will be in the show.\
-//:Change the code above to update the totals.
-//:
-//: For example, if another person is bringing a dog, change the `Number Of Dogs` from `5` to `6` and change the `5` to a `6` everywhere else it appears (`Total Number Of Animals` and `Total Number Of Mammals`).
-//:
-//: If someone is bringing a new kind of animal, use the same pattern as the other animal counts. Add a new comment (`// Number Of Hamsters` for example) on one line with a number on the next line. Don’t forget to update the totals.
-//:
-//: - Another person is bringing a dog.
-//: - One of the turtles is sick and won’t be coming.
-//: - Another person is bringing a cat.
-//: - Someone is bringing a hamster (a mammal).
-//:
-//:  Could there be a better way to solve this problem? Think about it for a minute or two, then move on.
+//: - 实验: 一周过去了，你会在节目中得到更多有关宠物的信息。
+//: 更改上面的代码，以便于更新总数。
+//: 
+//: 例如，另一个人带来了一只狗，将“狗的数量”从“5”更改为“6”，并将“动物总数”和“哺乳动物总数”中的“5”更改为“6”。
+//: 
+//: 如果有人带来一种新的动物，使用与其他动物计数相同的模式：添加一个新注释（例如`//仓鼠的数量`），然后在下一行添加一个数字。同时，不要忘记更新总计。
+//: 
+//: - 另一个人带狗。
+//: - 其中一只乌龟病了，不会来了。
+//: - 另一个人带来一只猫。
+//: - 有人带了一只仓鼠（哺乳动物）。
+//: 
+//: 有更好的方法来解决这个问题吗？想一两分钟，然后继续前进。
+//: 
 //:
 //:[Previous](@previous)  |  page 2 of 14  |  [Next: Pet Problem Recap](@next)

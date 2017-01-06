@@ -1,16 +1,16 @@
-//: ## Typing Names and Autocompletion
-//: Xcode keeps track of all the names you’ve defined. So when you start typing, you’ll see a menu of suggested names (the names it knows about). This is called _autocompletion_.
-//:
-//: Autocompletion helps you write code more quickly and with fewer typing mistakes. The more you type, the more the autocompletion menu narrows down to what you’re looking for.
-//:
-//: Whenever the autocompletion menu appears you can:
-//: - Keep typing to narrow down the list.
-//: - Use the Up Arrow and Down Arrow keys to move up and down the list.
-//: - Hit the Return key to have Xcode fill in the selected name.
+//: ##输入名字、代码补全
+//: Xcode会跟踪你定义的所有名字。 因此，当你开始输入的时候，你就会看到一列推荐的名字（所有它所知道的名字）的列表。 这称为代码补全（autocompletion)。
+//: 
+//: 代码补全功能可以帮助你更快地编写代码，并减少拼写错误。 你输入的内容越多，代码补全的列表就越接近你要查找的内容。
+//: 
+//: 每当代码补全的菜单出现时，你可以:
+//: - 继续输入以缩小列表范围。
+//: - 使用向上箭头和向下箭头键来上下移动列表。
+//: - 按回车键让Xcode填入所选的内容。
 //:
 //: ![Autocompletion Popup Menu](autocomplete.png)
-//: In the list, you’ll see names that you didn’t define. It's perfectly fine to ignore those names.
-//:
-//: As part of the experiment on the next page you’ll type in some names and see autocompletion in action.
+//: 在列表中，你可能会看到你没有定义的名字名字。目前先忽略这些名字呗。
+//: 
+//: 作为下一页练习的一部分，你将输入一些名字，并在实际操作中了解代码补全功能。
 //:
 //:[Previous](@previous)  |  page 5 of 14  |  [Next: Identifiers](@next)

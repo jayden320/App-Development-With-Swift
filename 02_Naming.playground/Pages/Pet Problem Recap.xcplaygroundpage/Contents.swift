@@ -1,30 +1,30 @@
-//: ## Pet Problem Recap
-//: After you’ve made all the updates, the playground should look something like this:
-// Number Of Dogs
+//: ## 宠物问题2
+//: 完成所有的修改后，playground应该看起来像这样:
+//狗的数量
 6
 
-// Number Of Cats
+//猫的数量
 5
 
-// Number Of Turtles
+//乌龟的数量
 2
 
-// Number Of Hamsters
+//仓鼠的数量
 1
 
-// Total Number Of Animals
+//动物总数
 6 + 5 + 2 + 1
 
-// Total Number Of Mammals
+//哺乳动物总数
 6 + 5 + 1
-//: This way of using a playground definitely solved your friend’s problem. You kept track of the number of each kind of animal, the total number of animals, and the total number of mammals.
+//: 这种使用playground的方式肯定解决了你朋友的问题。你已经可以跟踪每种动物的数量，动物的总数和哺乳动物的总数。
 //:
-//: But as you did the experiment, you might have noticed it was easy to make a mistake.  You had to change the number in multiple places. And if you forgot to update it everywhere, your totals would be wrong.
+//: 但是当你在做这个练习的过程中，你可能已经注意到自己很容易犯错误。你必须在多个地方更改数量。如果你忘记在每一个地方更新，你的总数可能就是错的。
 //:
-//: You also had to remember which number tracked each kind of animal. Without the comment that identified each number, it’s very difficult to keep it all straight.
-//:
-//: One of the most useful things when writing code is being able to give something a name. Instead of repeating numbers that all refer to the same thing, you can give that thing a name — then use the name instead of the number wherever you need to in your code.
-//:
-//: Next you’ll find out how to do that.
+//: 你还必须记住每个数字代表的是哪一种动物，如果没有注释标明每个数字的含义，要想正确的计算数量是非常难的。
+//: 
+//: 编写代码的时候，最重要的事情之一就是起名字，而不是各种天书一样重复的数字。现在，你可以给每个数量起一个名字 - 然后在代码的需要的地方，直接使用名字，而不是谜一般的数字。
+//: 
+//: 接下来你会学习如何做到这一点。
 //:
 //:[Previous](@previous)  |  page 3 of 14  |  [Next: Naming Things](@next)

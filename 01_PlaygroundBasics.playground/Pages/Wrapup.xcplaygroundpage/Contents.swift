@@ -1,5 +1,5 @@
-//: ## 回顾(Wrapup)
-//: 在这个playground中,你已经快速的了解了playgrounds和results sidebar. 你还学到了一些让你走上码农之路的:
+//: ## 回顾
+//: 在这个playground中。你已经快速的了解了playgrounds和results sidebar。你还学到了一些让你走上码农之路的东西:
 //: - 做数学运算
 //: - 使用注释
 //: - 当错误发生时解决错误

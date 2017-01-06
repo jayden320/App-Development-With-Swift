@@ -1,10 +1,10 @@
-//: ## Solving Problems
-//: Programmers use whatever tools they have available to solve all kinds of problems.
-//:
-//: As you move through this course, you’ll learn more ways to get things done, different ways to use code to solve problems and build great apps. Things will start small and simple with some basics. But as your skills and knowledge grow, you'll be able to do more and more with what you know.
-//:
-//: As a programmer, sometimes you solve problems and write apps for yourself, but often you help other people solve their problems. In addition to learning how to write code, it’s useful to think about different kinds of problems and imagine how you might solve them.
-//:
-//: Throughout this course, you’re going to help solve some problems. Along the way you’ll learn fundamental things you need to know to become a better programmer.
+//: ## 解决问题
+//: 程序员可以使用各种工具来解决问题。
+//: 
+//: 通过本课程，你会学到更多的姿势来写代码，用代码来解决问题并构建吊炸天的应用程序。事情将从一些很简单的基础开始。但随着你的技能和知识的增长，你将能够做越来越多的事情。
+//: 
+//: 作为一个程序员，有时你是为自己编写App，但更多的时候你帮助其他人解决他们的问题。考虑不同类型的问题和想象如何解决它们，对学习如何编写代码来说是很有帮助的。
+//: 
+//: 在本课程中，你将帮助解决一些问题。在这个过程中，你将学习到一些基本的东西，以便成为一个更好的程序员。
 //:
 //:page 1 of 14  |  [Next: Pet Problem](@next)
