@@ -1,25 +1,25 @@
-//:  ## When Things Go Wrong 😰
-//: Programmers make mistakes.\
-//: (More often than you might imagine.)
+//:  ## 当事情出错的时候（When Things Go Wrong） 😰
+//: 程序员都会犯错误.\
+//: (而且可能比你想象中的更经常.)
 //:
-//: As you write code and build apps, you will make mistakes too.
+//: 当你开始写代码,开始开发app的时候,放错误是难免的.
 //:
-//: _Don’t panic._
+//: 乖乖,不要慌
 //:
-//: Sometimes things go wrong when writing code which is normal and expected.\
-//: Don’t expect everything to come together without errors.
+//: 在写代码的时候放错误是非常正常的.\
+//: 不用希望所有的代码都可以在一开始的时候正常运行.
 //:
-//: Part of being a programmer is troubleshooting when things go wrong.
+//: 在出现问题时进行故障排除,是程序员日常工作的一部分.
 //:
-//: The first step is to not freak out. Take a deep breath.
+//: 第一步就是不要害怕,深吸一口气.
 //:
-//: _Don’t panic._
+//: 乖乖,不要慌
 //:
-//: An error doesn’t mean you’ve failed or you’re a bad programmer.\
-//: It just means there’s a problem in the code that you need to fix.
+//: 一个错误并不意味着你失败了,或者你是一个差劲的程序员.\
+//: 它只是意味着在代码中有一个问题,你需要去修复.
 //:
-//: And that is part of the process.
+//: 这个只是日常中的一小部分.
 //:
-//: On the next page, find out how playgrounds help you find errors.
+//: 在下一步中,我们将学习playgrounds怎么帮助我们发现错误.
 //:
 //:[Previous](@previous)  |  page 5 of 7  |  [Next: Errors](@next)

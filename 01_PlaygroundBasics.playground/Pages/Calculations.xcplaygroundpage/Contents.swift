@@ -1,22 +1,22 @@
-//: ## Calculations
-//: You can use a playground like a calculator. Type in the math problem you want solved and the results sidebar shows the answer, or the _result_, of the calculation.
+//: ## 计算器（Calculations）
+//: 我们可以把playground当做计算器来用.输入算术问题后,计算的结果就会显示在results sidebar中.
 //:
-//: You can use the plus `+` and minus `-` signs for addition and subtraction, just as you’d expect:
+//: 你可以使用加号 `+` 和减号 `-` ,比如下面这样:
 34 + 56 + 230
 
 1000 - 300
 
-//: For multiplication, use the asterisk `*` :
+//: 乘法,使用星号 `*` :
 3 * 100
-//: For division, use the slash `/` :
+//: 除法,使用斜杠 `/` :
 24 / 8
-//: For grouping, use parenthesis `( )` :
+//: 分组,使用小括号 `( )` :
 (300 + 500 + 400) / 3
-//: - experiment:\
-//: Practice using the playground like a calculator.
-//: Edit some of the existing expressions and add a few of your own.
-//: Notice that every time you make a change the results are updated in the sidebar.
+//: - 实验:\
+//: 练习把playground当做计算器来用.
+//: 编辑上面的那些计算表达式,也可以添加一些你自己的计算表达式.
+//: 注意观察你每一次的修改,计算的结果都会显示在右侧的results sidebar中.
 //:
-//: Next, learn how programmers can leave notes in code.
+//: 下一步,我们将学习码农怎么在代码里面写备注.
 //:
 //:[Previous](@previous)  |  page 3 of 7  |  [Next: Comments](@next)

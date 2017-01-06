@@ -1,13 +1,16 @@
-//: ## Wrapup
-//: In this playground you’ve had a quick tour of playgrounds and the results sidebar. You’ve also learned a number of things to get you on the road to programming:
-//: - Doing mathematical calculations
-//: - Using comments
-//: - Troubleshooting errors when things go wrong
+//: ## 回顾(Wrapup)
+//: 在这个playground中,你已经快速的了解了playgrounds和results sidebar. 你还学到了一些让你走上码农之路的:
+//: - 做数学运算
+//: - 使用注释
+//: - 当错误发生时解决错误
 //:
-//: Congratulations!
+//: 恭喜恭喜!
 //:
 /*:
  _Copyright (C) 2016 Apple Inc. All Rights Reserved.\
  See LICENSE.txt for this sample’s licensing information_
+ 
+ 翻译:素敌.\
+ E-mail:67111677@qq.com
  */
 //:[Previous](@previous)  |  page 7 of 7

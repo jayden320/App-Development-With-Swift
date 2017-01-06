@@ -1,21 +1,21 @@
-//: ## Comments
-//: Programmers leave little notes right in the code to help explain it.
-//: This helps people understand the code when they read it later.
-//: These notes are called _comments_.
+//: ## 注释（Comments）
+//: 程序员会在代码里面写一些笔记,以便于解释代码的用意.
+//: 这可以帮助以后读代码的人更好的理解代码.
+//: 这些比较叫做注释(comments).
 //:
-//: Comments are ignored by the playground and do not affect how your code is run.
+//: 注释会被playground忽略掉,不会影响到代码的运行.
 //: 
-//: A comment starts with two slashes `//` :
-// This is a comment; it does not affect the code
+//: 注释由两个斜杠开始 `//` :
+// 这是一个注释; 它不会影响到代码的运行
 34 + 56 + 230
-//: Because comments are ignored, no result is displayed in the results bar for that line of code.
+//: 因为注释会被忽略掉,所以results bar中不会显示出注释的结果.
 // 200 + 34 + 45
-//: - experiment:\
-//: Try _commenting out_ the calculation `34 + 56 + 230` by adding two slashes to the beginning of the calculation.\
-//:Try _uncommenting_ the calculation `200 + 34 + 45` by deleting the two slashes.\
-//:Edit some of the existing expressions and add a few of your own.\
-//:Notice that every time you make a change the results are updated in the sidebar.
+//: - 实验:\
+//: 试着用两个斜杠,把上面 `34 + 56 + 230` 这行代码注释掉.\
+//: 试着把 `200 + 34 + 45` 这行代码取消注释（删掉开头的那两个斜杠）.\
+//: 修改上面的那些代码,或者添加一些你自己的代码.\
+//: 注意观察你每一次的修改,计算的结果都会显示在右侧的results sidebar中.
 //:
-//: Take a deep breath and move on to the next page.
+//: 深呼吸,准备进入下一页.
 //:
 //:[Previous](@previous)  |  page 4 of 7  |  [Next: When Things Go Wrong 😰](@next)

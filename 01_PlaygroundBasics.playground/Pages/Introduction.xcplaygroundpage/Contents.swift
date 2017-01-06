@@ -1,11 +1,11 @@
-//: ## Playground Basics
-//: Welcome to your first playground! In this course, you’ll use playgrounds to learn the basics of programming. To get started, you’ll take a short tour and write a bit of code.
+//: ## Playground 基础
+//: 欢迎来到你的第一个playground! 在这个过程中,你会使用的playground学习编程的基础知识.为了学习playground,你会需要些一点点的代码.
 //:
-//: Before you start, do you see animating dots below?
-//: If you don’t, go to the top menu bar and select Editor > Show Rendered Markup.
+//: 在开始之前,你看到下面哪些在动的点点了吗？
+//: 如果没有看到,那么在顶部的菜单栏中选择 Editor > Show Rendered Markup.
 //:
 //: ![animating dots](swiftloading.gif)
 //:
-//: If you can see the animating dots, you’re ready to get started.
+//: 如果你可以看到动画的点点,那你就可以开始了.
 //:
 //:page 1 of 7  |  [Next: What Is a Playground?](@next)

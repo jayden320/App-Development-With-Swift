@@ -1,21 +1,21 @@
-//: ## Errors
-//: When the playground finds an error in your code, it stops running it.
-//: This playground page, for example, has an error in it.
+//: ## 错误（Errors）
+//: 当playground发现你的代码里有错误的时候, playground就会停止运行.
+//: 有一个错误就藏在这一页的playground里面.
 //:
-//: 👈 Notice the red error symbol to the left of the line below. This is how a playground tells you where a problem is.
+//: 👈 注意有一个红色的错误标记显示在这一行的左侧.这就是playground在告诉你,这里有一个问题等着你去解决.
 1000 / 0
-//: Since there is an error, the playground stops running your code.\
-//: Notice that there are no results displayed in the sidebar. 👉
+//: 由于这里有一个错误,playground就不会运行你的代码.\
+//: 注意这里的sidebar并没有显示计算的结果 👉
 2 + 2
-//: To get more information about an error, you can click the red error symbol. Go ahead, give it a click.
+//: 想要获取更多关于错误的信息,你可以点击红色的错误标记.什么,你不点一下吗？
 //:
-//: When you click, the line of code is highlighted in red. A description of the error appears on the right.\
-//: You can click again to hide the error message.
+//: 当你点击后,这行代码就会被红色的高亮显示.在界面的右侧,会显示错误的具体描述.\
+//: 你也可以再次点击,用来隐藏错误信息.
 //:
-//: In this case the error is “Division by zero”. You can’t divide by zero in math class, and a computer can’t divide by zero either.
-//: - experiment:\
-//: Change the `0` to another number to fix the error.
+//: 在这个例子中,错误是 “Division by zero”（除数是零）.数学老师应该有教过,除数不可以为零（不用问我为什么,问你们语文老师去）.
+//: - 实验:\
+//: 动手把`0`改成其他的数字,就可以修复这个问题了.
 //:
-//: Next, read all about your very recent past.
+//: 下一步,让我们回顾一下上面所学的内容.
 //:
 //:[Previous](@previous)  |  page 6 of 7  |  [Next: Wrapup](@next)
