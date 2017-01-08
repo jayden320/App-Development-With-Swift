@@ -2,7 +2,7 @@
 App Development With Swift中文版
 因为时间有限，目前只翻译源码
 
-翻译进度：第一章
+翻译进度：第二章
 
 原版地址：
 https://itun.es/hk/aVbRcb.l

@@ -1,14 +1,14 @@
-//: ## Choosing Good Names
-//: Choosing good names is a very important part of programming. Programmers want to choose good names because even though it’s important to know how to write code, it’s even more important to be able to read and understand code.
-//:
-//: So far, you’ve used names like `numberOfDogs` and `numberOfCats`. These are good names because they clearly describe what they represent.
-//:
-//: Imagine if the names had been `nd` and `nc` instead (for **n**umber of **d**ogs and **n**umber of **c**ats).\
-//: Or even less descriptive names, like `n1` and `n2`.
-//:
-//: Swift will accept names like this without complaint. But imagine coming back to read that code after vacation. Would you remember what `nd` or `n1` meant? And if you gave the playground to other programmers, how would they figure out what those names were supposed to mean?
-//:
-//: - callout(Just for fun): In Swift, you can use emoji in names. This is not considered good naming practice, but it can be fun.  Below is the pet problem redone using emoji for names.
+//: ##起一个好名字
+//: 起一个好名字是编程的一个非常重要的部分。程序员希望能选择好的名字，这是不只是因为好的名字可以更好的编写代码。更重要的是，这可以帮助程序员更好的阅读和理解代码。
+//: 
+//: 到目前为止，你使用了'numberOfDogs`和`numberOfCats`这样的名字。这些都是比较好的名字，因为他们清楚地描述了他们代表什么。
+//: 
+//: 想象一下，如果名字是`nd`或者`nc`。\
+//: 甚至更少的描述性名称，如`n1`和`n2`。
+//: 
+//: Swift会默默的接受这样的名字而不抱怨什么。但想象一下，你度过一个假期后回来，再来阅读这些代码。你会记得`nd`或`n1`的意思吗？如果你把playground给其他程序员，他们怎么知道这些名字是什么意思呢？
+//: 
+//: - callout(脑洞大开): 在Swift中，你可以在名称中使用表情符号。当然这不是好的命名方式，但它很好玩。下面是宠物问题的另类命名方式。
 let 🐶 = 8
 let 🐱 = 4
 let 🐹 = 2
@@ -21,8 +21,8 @@ let totalNumberOfAnimals = 🐶 + 🐱 + 🐹 + 🐢 + 🐍 + 🐷 + 🐟
 
 let totalNumberOfMammals = 🐶 + 🐱 + 🐹 + 🐷
 
-//: - callout(Why not?): Why not use emoji for names? One reason is that it can be difficult to tell emoji apart at a glance. Another is that there might not be an emoji for every case. What if someone brought a pet tarantula to the pet show? There’s no emoji to match. Using words is a lot more flexible and reliable.
+//: - callout(为什么不?):为什么不建议使用表情符号来起名字呢？其中一个原因是，可能很难一目了然地看明白表情符号。另一个是，不是每种动物都有对应的表情符号。如果有人把宠物狼蛛带到宠物秀怎么办？。所以使用英文单词来命名更加灵活可靠。
 //:
-//: Next, learn the official names for the work you’ve been doing.
+//: 接下来，一起学习实际工作中，如何来命名。
 //:
 //:[Previous](@previous)  |  page 7 of 14  |  [Next: Programmer Talk](@next)

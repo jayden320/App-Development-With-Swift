@@ -1,27 +1,27 @@
-//: ## Exercise: Putting on a Show
-//: Your friend is done with the pet show. With your help, it was a big success. Now your friend is putting on a concert. Tickets are for sale at $10 per ticket. The room rental is $50. Making posters for the show costs $40. Help your friend figure out if the show is going to make money or lose money.
-// Number Of Tickets
+//: ## 练习: 音乐会
+//: 你的朋友已经完成了宠物秀。 在你的帮助下，获得了一个巨大的成功。 现在你的朋友正在举行音乐会。 门票售价为每张门票10元。 房间租金是50元。 制作海报的费用为40元。 帮助你的朋友算出这个音乐会是赚钱还是亏钱。
+//门票数量
 150
 
-// Ticket Price
+// 票价
 10
 
-// Room Rental Fee
+//场地租金
 1000
 
-// Poster Cost
+//海报费用
 40
 
-// Total Ticket Value
+//总票数值
 150 * 10
 
-// Total Expenses
+//总费用
 1000 + 40
 
-// Total Income Of Show
+//总收入显示
 (150 * 10) - (1000 + 40)
-//: - callout(Exercise): Using the code above as a reference, use let statements to define constants to better solve your friend’s problem.\
-//:Add your code below. To help you get started, the constant `numberOfTickets` is already defined. 
+//: - callout(练习): 使用上面的代码作为参考，使用let语句定义常量，以便更好地解决你朋友的问题。
+//: 在下面添加你的代码。 为了帮助你开始，常量`numberOfTickets`已经定义好了。
 let numberOfTickets = 150
 
 //:

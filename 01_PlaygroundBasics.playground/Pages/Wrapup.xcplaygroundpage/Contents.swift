@@ -10,7 +10,7 @@
  _Copyright (C) 2016 Apple Inc. All Rights Reserved.\
  See LICENSE.txt for this sample’s licensing information_
  
- 翻译:素敌.\
+ 翻译:素敌\
  E-mail:67111677@qq.com
  */
 //:[Previous](@previous)  |  page 7 of 7

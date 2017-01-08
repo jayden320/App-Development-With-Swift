@@ -1,15 +1,15 @@
-//: ## Wrapup
-//: In this playground you’ve learned:
-//: - How programmers solve problems.
-//: - How naming values can make it easier to solve problems.
-//: - How things are named in Swift using identifiers.
-//: - Why good names are important, to make code understandable.
-//: - How to declare a constant using `let` and assign a value to the constant.
+//:  ## 回顾
+//: 在这个playground你学到了:
+//: - 程序员如何解决问题。
+//: - 如何命名可以更容易解决问题。
+//: - 如何在Swift中使用标识符命名。
+//: - 为什么好的名字很重要，可以使代码理解。
+//: - 如何使用`let`声明一个常量，并为常量赋值。
 //:
 //: ### Exercises
-//: Sometimes when you learn something new, it takes some practice to get the hang of it.
+//: 有时候当你学到新的东西时，需要通过做一些练习来掌握。
 //:
-//: At the end of the playgrounds in this course, you’ll sometimes find pages of exercises where you can practice what you’ve learned.
+//: 在本课程的playgrounds后半部分，你有时会看到练习的页面，在那里你可以练习你刚学到的东西。
 //:
-//: Go to the next page for the first exercise.\
+//: 进入下一页，开始我们的第一个练习吧。\
 //:[Previous](@previous)  |  page 9 of 14  |  [Next: Exercise: Putting on a Show](@next)

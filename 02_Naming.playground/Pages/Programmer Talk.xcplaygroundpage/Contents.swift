@@ -1,18 +1,16 @@
-//: ## Programmer Talk
-//: Being an app developer is more than figuring out what to type into Xcode. Programmers work together to discuss how to solve problems and explain things to each other. So it’s important to learn the terminology programmers use.
+//: ## 程序员的腔调
+//: 作为一个应用程序开发人员不仅仅是要在Xcode中写代码。程序员还会经常一起讨论如何解决问题和沟通需求。因此，了解术语对程序员来说很重要。
 //:
-//: In this course, you’ll learn how to write code and create apps, but you’ll also learn the terms you need to talk about code with other developers.
+//: 在本课程中，你将学习如何编写代码和创建App，你还会学习与其他开发人员讨论时可能会用到的术语。
 //:
-//: For example, a ‘line of code’ is more formally known as a _statement_.
-//:
-//: You’ve already seen the terms _constant_ and _identifier_ in this playground. Take a closer look at the statement below to understand some additional terms.
+//: 你已经在这个playground中学过了常量（constant）和表标识符（identifier）。请仔细阅读下面的代码，了解一些新的内容。
 let numberOfDogs = 101
-//: When you define a constant in Swift, it’s called _declaring_ a constant. So the statement above is known as a _declaration_. “I declare that the name `numberOfDogs` has the value `101`!”.
+//: 当你在Swift中定义一个常量时，它被称为申明常量（declaring a constant）。所以上面的语句可以这样读： 我声明名称`numberOfDogs`的值为`101`！”。
 //:
-//: The word `let` is an example of a _keyword_. Keywords have special meaning in Swift and cannot be used as names.  The `let` keyword is used to declare a constant. Over time, you’ll be introduced to more Swift keywords.
+//: 'let`这个词是一个关键字（keyword）。关键字在Swift中有特殊意义，不能用作常量的名称。 `let`关键字用于声明一个常量。随着时间的推移，你将会介绍更多的Swift关键字。
 //:
-//: The part of the statement `= 101` is where you _assign_ a value to the constant. This is called _assignment_ and the equal sign `=` is called the _assignment operator_.
+//: 上面代码中的`= 101`部分是在给一个常量赋值。这称为赋值（assignment），等号`=`称为赋值操作（assignment operator）。
 //:
-//: - note: Don’t focus too much on memorizing every new term immediately - it can be overwhelming. You’ll see the terms used in context during the rest of the course, and you can always find them in the Glossary of the Student Guide if you need to refresh your memory.
+//: - note: 不要想着马上记住每个新的术语。你将在课程的其余部分看到上下文中使用这些术语，如果你需要复习术语，则可以在“学生指南”的词汇表中找到它们。
 //:
 //:[Previous](@previous)  |  page 8 of 14  |  [Next: Wrapup](@next)

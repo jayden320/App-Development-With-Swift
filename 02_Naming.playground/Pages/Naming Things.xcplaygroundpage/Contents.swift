@@ -25,7 +25,7 @@ let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
 //: 你甚至可以让playground为你计算，只要在等号的右边进行加减。例如，如果有人带来了两只狗，我们不需要将6改为8，而是直接输入:
 //:
 //: `let numberOfDogs = 6 + 2`
-//: - 练习: 一周过去了，你会得到更多关于宠物的信息。
+//: - experiment: 一周过去了，你会得到更多关于宠物的信息。\
 //: 根据以下的动作，更新上面的代码:
 //: - 另外两个人带狗。
 //: - 生病的乌龟感觉好多了，重新来参加宠物秀。

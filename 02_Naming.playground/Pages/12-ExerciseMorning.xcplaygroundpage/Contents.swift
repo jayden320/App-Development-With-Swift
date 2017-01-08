@@ -1,29 +1,29 @@
-/*: 
- ## Exercise: Fixing Your Morning
- 
- There’s a lot to get done before you leave home in the morning. This exercise will help you optimize your routine.
- 
- - callout(Exercise): Create a constant for each activity you do in the morning before leaving home: things like `brushTeeth`, `uploadPhotos`, `chooseClothes`, `shower`, `goJogging`, `finishHomework`, `fixLunch`, and so on. Think about how many minutes each activity usually takes, and assign that value to each constant.
+/*:
+ ## 练习:修复你的早晨
+ 
+ 在你早上离开家之前，有很多事情要做。这个练习将帮助你优化你的日常工作。
+ 
+ - callout(练习): 为你每天早上在离开家之前做的每件事情创建一个常量:像`刷牙`，`上传照片`，`选衣服`，`洗澡`，`慢跑`，`做家务` ， 等等。考虑每件事通常需要多少分钟，并将该值赋值给每个常数。
  */
 let brushTeeth = 3
-// Add more here...
-
-//: - callout(Exercise): Find the total time of all the activities by adding up the constants. Try to adjust the values or add more activities until the total time looks reasonably close to the actual amount of time you spend getting ready on an average day.
-
-
-
-//: - callout(Exercise): Add up the constants again, but this time in separate groups: one group for things you have to do and another group for things you like to do.\
+//在此处添加更多...
+    
+//: - callout(练习):把所有的常量相加，计算所有事情所需要的总时间。尝试调整值或添加更多事情，直到总时间看起来比较合理。
+    
+    
+    
+//: - callout(练习):再次把这些常量相加，但这次在不同的组进行:一组为你必须要做的事情，另一组为你可能会做的事情。\
 //:\
-//:If there are things you don’t have to do and don't like to do, make a third group and go ahead and sum that one, too. \
+//:如果有的事情你不是必须做，而且也不喜欢做。将这些事情分到第三组去，并且也计算第三组所需要的总时间。\
 //:\
-//:Make a new constant for each group.
+//:为每个组创建一个新的常量。
 
 
 
 /*:
- See what happens to your total time spent getting ready if you tweak the durations of the different activities. How short of a shower would you have to take in order to have more time to message your friends? Or go for a longer run? How much more time would you need if you decided to spend as long as you wanted doing all the activities you like best?
+ 看看如果你调整不同事情的时间，你的总时间会发生什么变化。你需要减少多少淋浴的时间，以便有更多的时间为你的朋友发消息？如果你希望用最多的时间做你最喜欢的事情，你还剩下多少时间做其他事情？
  
- Change the numbers until you’ve got a design for your ideal morning. What would have to change in order for you to be able to actually spend your morning time this way?
+ 更改数字，直到你有一个理想的早晨计划。
 */
 
 
