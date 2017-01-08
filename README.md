@@ -14,5 +14,9 @@ https://itun.es/hk/aVbRcb.l
 
 ## 最后
 
-如果喜欢，请顺手我一个star吧~  ：）
+如果喜欢，请顺手我一个star
 
+## 捐赠
+
+赏2块钱买酒喝
+<img src="https://github.com/huanxsd/App-Development-With-Swift/blob/master/donate.png" alt="donate" title="donate">
