@@ -19,4 +19,4 @@ https://itun.es/hk/aVbRcb.l
 ## 捐赠
 
 赏2块钱买酒喝
-<img src="https://github.com/huanxsd/App-Development-With-Swift/blob/master/donate.png" alt="donate" title="donate">
+<img src="https://github.com/huanxsd/App-Development-With-Swift/blob/master/donate.png" alt="donate" title="donate" width="480">
