@@ -21,3 +21,8 @@ https://itun.es/hk/aVbRcb.l
 赏2块钱买酒喝
 
 <img src="https://github.com/huanxsd/App-Development-With-Swift/blob/master/donate.png" alt="donate" title="donate" width="480">
+
+
+想赏多少赏多少
+
+<img src="https://github.com/huanxsd/App-Development-With-Swift/blob/master/donate2.png" alt="donate" title="donate" width="480">
