@@ -1,11 +1,11 @@
-//: ## Wrapup
-//: In this section you’ve seen a lot of ways to deal with text information in Swift:
-//: - Why programmers refer to text data as _strings_.
-//: - How to declare string constants.
-//: - How to combine strings by adding them together.
-//: - How to build complicated fill-in-the-blank strings with string interpolation.
-//: - How to use escape sequences to add special characters in a string.
+//: ## 总结
+//: 在本节中，你已经学到了很多处理Swift文本的方法:
+//: - 为什么程序员将文本信息称为字符串（string）。
+//: - 如何声明字符串常量。
+//: - 如何通过加号把字符串拼接在一起。
+//: - 如何使用字符串插值创建复杂的字符串。
+//: - 如何使用转义字符在字符串中添加特殊符号。
 //:
-//: Practice what you've learned so far with some additional exercises.
+//: 接下来让我们运用迄今为止学到的内容，做一些额外的练习。
 //:
-//:[Previous](@previous)  |  page 12 of 16  |  [Next: Exercise: Making a List](@next)
+//:[上一页](@previous)  |  第12页，共16页  |  [下一页: 练习: 制作大纲](@next)

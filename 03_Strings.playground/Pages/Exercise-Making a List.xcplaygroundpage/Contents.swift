@@ -1,21 +1,21 @@
 /*:
- ## Exercise: Making a List
- 
- Lists are great. Here are some constants describing some of the things you’ve learned about strings so far:
+ ## 练习：写大纲
+ 
+ 大纲是个很好用的东西。这里有一些常量，描述了迄今为止学到的关于字符串的一些内容：
  */
-let constants = "Declaring string constants"
+let constants = "声明字符串常量"
 let unicode = "Unicode characters (😎)"
-let combining = "Combining strings using +"
-let interpolation = "String interpolation (aka Fill in the Blanks)"
-let escaping = "Escape characters for \"special powers\""
-let newline = "Making new lines"
+let combining = "使用 + 来拼接字符串"
+let interpolation = "字符串插值 (简单的说就是填空)"
+let escaping = "转义字符 \"special powers\""
+let newline = "换行"
 /*:
- - experiment: Make a new string constant that is a list of the things you’ve learned, with each entry on a new line. Make sure you add the result to the playground page so that you can see the list properly.
- */
+ - callout(练习):创建一个新的字符串常量，用来表示你所学到的知识大纲，每个条目都要另起一行。确保playground中能够显示结果，以便你可以正确地查看大纲。
+*/
 
 
 
 
 
 //:
-//:[Previous](@previous)  |  page 13 of 16  |  [Next: Exercise: A Restaurant](@next)
+//:[上一页](@previous)  |  第13页，共16页  |  [下一页：练习：餐厅](@next)

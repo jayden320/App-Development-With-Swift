@@ -1,19 +1,19 @@
 /*:
- ## Exercise: Go! Fight! Win!
+ ## 练习: 打鸡血之歌
  
- Many schools have “fight songs”: Students learn at least some portion of the words and then sing the songs together loudly at school events like sports games.
+ 许多学校都有打鸡血的歌: 学生多少都会学习一些，然后在诸如运动会等这类学校活动中一起大声唱出来。
  
- You’ve decided that your school’s fight song needs a rewrite. You want to edit the song in code so you don’t have to copy and paste as much while you work.
+ 你决定重写你学校的歌。你要通过代码来编辑歌词，这样你就可以不用一直复制和粘贴重复的那部分歌词。
  
- 1. Edit the `song` to have more than a repeated refrain.
- 2. Edit the `refrain` to have actual words.
- 3. Edit the `refrain` to use the `schoolName` at least twice.
- 4. Test your work by changing the school name to a fictional school.
+ 1. 编辑歌曲，至少有一个重复的`副歌`。
+ 2. 编辑`副歌`，加入有实际意义的词。
+ 3. 编辑`副歌`，`schoolName`至少出现两次。
+ 4. 把校名改为虚构的学校，以此来测试你的代码。\
  
- Use string interpolation in case you decide to sell your brilliant song to another school.
- 
+记得使用字符串插值，万一你以后决定把你辉煌的歌词卖给另一所学校呢。
+ 
  - note:
- Use the show result button to view the results of your work.
+ 使用结果栏中的显示结果按钮，来查看你的工作成果。
  */
 
 
@@ -25,4 +25,4 @@ let song = "\(refrain)\n\(refrain)\nYes, \(refrain)"
 
 
 //:
-//:[Previous](@previous)  |  page 15 of 16 |  [Next: Exercise: Displaying Values](@next)
+//:[上一页](@previous)  |  第15页，共16页 |  [下一页: 练习: 显示值](@next)

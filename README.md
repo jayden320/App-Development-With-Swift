@@ -2,7 +2,7 @@
 App Development With Swift中文版
 因为时间有限，目前只翻译源码
 
-翻译进度：第二章
+翻译进度：第三章
 
 原版地址：
 https://itun.es/hk/aVbRcb.l
@@ -18,11 +18,6 @@ https://itun.es/hk/aVbRcb.l
 
 ## 捐赠
 
-赏2块钱买酒喝
+赏2块钱买泡面
 
 <img src="https://github.com/huanxsd/App-Development-With-Swift/blob/master/donate.png" alt="donate" title="donate" width="480">
-
-
-想赏多少赏多少
-
-<img src="https://github.com/huanxsd/App-Development-With-Swift/blob/master/donate2.png" alt="donate" title="donate" width="480">

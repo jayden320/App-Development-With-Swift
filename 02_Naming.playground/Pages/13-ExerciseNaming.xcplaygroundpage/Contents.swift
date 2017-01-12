@@ -23,7 +23,7 @@ let lhso = es / ow
 let rhso = co - lhso
 
 
-//: - experiment: 重构代码，使其无需文档就可以读懂代码。 注意使用有意义的名称和注释。
+//: - callout(练习): 重构代码，使其无需文档就可以读懂代码。 注意使用有意义的名称和注释。
 
 
 
@@ -34,7 +34,11 @@ let rhso = co - lhso
  _Copyright (C) 2016 Apple Inc. All Rights Reserved.\
  See LICENSE.txt for this sample’s licensing information._
  
- 翻译:素敌\
- E-mail:67111677@qq.com
  */
-//:[Previous](@previous)  |  page 14 of 14
+//:[上一页](@previous)  |  第14页，共14页
+
+/*:
+ 翻译:素敌\
+ Github:\
+ https://github.com/huanxsd/App-Development-With-Swift
+ */

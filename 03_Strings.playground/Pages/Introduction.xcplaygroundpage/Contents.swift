@@ -1,16 +1,22 @@
-//: ## Strings
-//: Look at just about any app and you will see text. Text is everywhere, including messaging apps, news readers, social media apps and more. Even camera apps might use text to label buttons and controls.
+//: ## 字符串
+//: 每一个App都离不开文本。文字无处不在，包括消息类型的App，新闻阅读App，社交媒体App等。即使相机App也可能使用文本来标记按钮和控件。
 //:
-//: In most programming languages, including Swift, text values are called _strings_.
-//:
-//: ### Why Are They Called Strings?
-//: Imagine a string of beads. Each bead may look different, but they’re all strung together in a particular order.
-//:
+//: 在大多数编程语言中，包括Swift，文本的值称为字符串（string）。
+//: 
+//: ### 为什么他们叫字符串？
+//: 想象一串珠子。每个珠子可能看起来都不相同，但它们都以特定的顺序串在一起。
+//: 
 //: ![string of beads](StringOfBeads.png)
-//: Usually a single letter (for example, an “H”) is not useful by itself. Words are made up of a whole string of letters. So programmers call text a _string_. And a string can be just about any text you can imagine.
+//: 通常单个字母（例如，“H”）本身没有什么特别的含义。不管是词语还是句子，都可以用字符串来表示。字符串可以表示任何你可以想象到的文本。
 //:
 //: ![string of characters](StringOfCharacters.png)
 //:
-//: Next, learn what else besides letters can make up a string.
+//: 接下来，了解一下除了字母，还有什么可以组成一个字符串。
 //:
-//:page 1 of 16  |  [Next: Characters](@next)
+//:第1页，共16页  |  [下一页：字符](@next)
+
+/*:
+ 翻译:素敌\
+ Github:\
+ https://github.com/huanxsd/App-Development-With-Swift
+ */

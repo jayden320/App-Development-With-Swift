@@ -1,19 +1,19 @@
-//: ## Defining Strings
-//: In the previous playground, you declared number constants like this:
+//: ## 定义字符串
+//: 在前面的playground中，你声明了数字常量，如下所示:
 let heightInCentimeters = 7817
-//: To declare a string constant, you put text between quotation marks like this:
+//: 要声明字符串常量，需要将文本放在引号之间，如下所示:
 let favoriteBook = "The Sun Also Rises"
 
 let traditionalGreeting = "Hello, world!"
-//: The declared string values also appear in the results sidebar. 👉
-//: - experiment: Practice by declaring `favoriteMovie` and `favoriteSong` string constants for your favorite movie and song:
-// Declare a favoriteMovie constant
+//: 声明的字符串值也显示在结果栏中。 👉
+//: - callout(练习): 为喜欢的电影和歌曲声明`favoriteMovie`和`favoriteSong`字符串常量:
+//声明一个favoriteMovie常量
 let favoriteMovie = "HaHa"
 
 
-// Declare a favoriteSong constant
+//声明一个favoriteSong常量
 
 
-//: Next, take a string-based trip around the world.
+//: 接下来，让我们进入一个字符串的环游旅行。
 //:
-//:[Previous](@previous)  |  page 3 of 16  |  [Next: Unicode](@next)
+//:[上一页](@previous)  |  第3页，共16页  |  [下一页: Unicode](@next)

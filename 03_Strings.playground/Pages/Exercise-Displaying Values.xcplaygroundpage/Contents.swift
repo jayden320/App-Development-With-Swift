@@ -1,18 +1,18 @@
 /*:
- ## Exercise: Displaying Values
+ ## 练习：显示值
+ 
+ 你还记得之前的playground有一个关于计算iPhone上的剩余空间的练习吗？：
+ 
+ - iPhone的容量以千兆字节（GB）衡量。练习中的iPhone的大小有8GB。
+ - 1GB约为1,000兆字节（MB）
+ - 手机上已经有3GB的东西
+ - 一分钟的视频需要150MB的空间
+ 
+ - callout(练习): 创建一个字符串，告诉用户他们可以在手机上存储多少分钟的视频。你首先需要写计算的步骤，然后使用字符串插值（string interpolation）来显示答案，比如像下面这样:
  
- You may recall from an earlier playground an exercise that involved calculating the space remaining on an iPhone. You had the following information:
+  `你还可以存放XXX分钟的视频`
  
- - The capacity of an iPhone is measured in gigabytes (GB). The iPhone in question has 8GB of storage.
- - A gigabyte is about 1,000 megabytes (MB)
- - The phone already has 3GB of stuff on it
- - One minute of video takes 150MB of space
- 
- - callout(Exercise): Create a string that tells the user how many minutes of video they can store on the phone. You'll first need to perform the calculation steps, then use string interpolation to display the answer - which should look like this:
- 
- `You can record XXX more minutes of video.`
- 
- _Hint:_ Do all of your calculations in megabytes.
+ 提示：所有的计算以MB为单位。
  */
 
 
@@ -25,4 +25,10 @@
  See LICENSE.txt for this sample’s licensing information._
  */
 //:
-//:[Previous](@previous)  |  page 16 of 16
+//:[上一页](@previous)  |  第16页，共16页
+
+/*:
+ 翻译:素敌\
+ Github:\
+ https://github.com/huanxsd/App-Development-With-Swift
+ */

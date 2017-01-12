@@ -1,37 +1,37 @@
-//: ## Combining Strings
-//: Programmers often need to combine strings together.
-//:
-//: For example, you might see a message like _Chris likes your post_ in a social media app.
-//:
-//: In Swift, you can combine strings by adding them together:
-//:
-// This might change over time
+//: ## 拼接字符串
+//: 程序员经常需要将字符串拼接在一起。
+//: 
+//: 例如，你可能会在社交App中看到这样的消息：Chris likes your post。
+//: 
+//: 在Swift中，你可以通过加号，将字符串拼接到一起来:
+//: 
+// 这个名字可能会随时间而改变
 let username = "Chris"
 
-// This part of the message will get reused
+// 这部分消息不会经常变动，可以被复用
 let likesYourPostMessage = "likes your post"
 
-// Combine strings by using the plus sign
+// 通过加号，把字符串拼接在一起
 let finishedMessage = username + " " + likesYourPostMessage
-//: You can see how the strings have been combined in the results sidebar. 👉
+//: 你可以在结果栏中看到字符串拼接后的结果。 👉
+//: 
+//: 如果两个字符串之间没有添加空格，会发生什么事呢？
+//: - callout(练习): 为你的名字和姓氏声明`firstName`和`lastName`字符串常量。\
+//: 将它们拼接成一个`fullName`常量。\
+//: 拼接你的`firstName`和`likesYourPostMessage` \
+//: 在每行注释下面输入代码。
+// 声明一个firstName常量
+
+
+// 声明lastName常量
+
+
+// 将字符串拼接成一个fullName常量
+
+
+// 将你的名字与likesYourPostMessage拼接在一起
+
+
+//: 接下来一起学习如何创建更加复杂的字符串。
 //:
-//: What happens if you don’t add the space between the two strings?
-//: - experiment: Declare `firstName` and `lastName` string constants for your first and last name.\
-//:Combine them into a `fullName` constant.\
-//:Combine your `firstName` and `likesYourPostMessage`\
-//:Type each line of code below the relevant comment below.
-// Declare a firstName constant
-
-
-// Declare a lastName constant
-
-
-// Combine the strings into a fullName constant
-
-
-// Combine your first name with likesYourPostMessage
-
-
-//: Next, find out how building strings by adding them can get complicated.
-//:
-//:[Previous](@previous)  |  page 5 of 16  |  [Next: Fill In The Blanks](@next)
+//:[上一页](@previous)  |  第5页，共16页  |  [下一页: 填空](@next)

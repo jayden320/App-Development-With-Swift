@@ -1,22 +1,22 @@
-//: ## Escape Sequences
-//: The pattern of an _escape character_ followed by something that’s treated specially is called an _escape sequence_. You’ve already seen two different kinds of escape sequences:
-// The backslash followed by a quotation mark is an escape sequence.
+//: ## 转义序列
+//: 前面一个转义字符，后面跟一个需要特殊处理的字符，这种方式称为转义序列（escape sequence）。我们在之前已经看到了两种不同的转义序列：
+// 反斜杠后面跟着一个引号。
 let favoriteQuotation = "Hamlet said, \"To be, or not to be?\""
 
-// Another escape sequence is the placeholder in an interpolated string.
+// 我们之前用到的另一个转义序列，是字符串插值中的占位符。
 let flavor = "chocolate"
 let iceCreamAnnouncement = "The flavor of the day is \(flavor)"
-//: Some escape sequences in Swift let you insert invisible characters. One that you’ll use often is the _newline_ character. As you might guess from the name, this character makes the text skip to a new line.
-//:
-//: The escape sequence for a newline is the backslash character followed by the letter “n”:
+//: Swift中的一些转义序列允许你插入一些不可见的字符。比如你经常使用的换行符。正如你从名字中猜到的那样，这个字符可以使文本另起一行。
+//: 
+//: 换行符的转义序列是一个反斜杠，然后后面跟字母“n”:
 let startOfAPoem = "Roses are red.\nViolets are blue."
-//: In the result displayed above, notice a new line starts where the `\n` appears in the string.
-//: - note: If the result is not visible, click the show result button for the line of code above.
+//: 在上面那行代码显示的结果中，在字符串中出现'\n'的地方，另起了一行。
+//: - note: 如果看不到结果，单击上面代码右侧的显示结果按钮（就是那个长得像眼睛的按钮）。
+//: 
+//: 注意看下，结果栏中的字符串显示为`\n`，而不是另起一行。
+//: 这是因为结果栏最多只能显示一行的结果。
+//: 
+//: 
+//:进入下一页，一起做一个总结。
 //:
-//: Also notice that the string in the results sidebar shows the `\n` instead of skipping a line.\
-//: That’s because the results sidebar can only use one line to show results.
-//:
-//:
-//: Move on to the next page to wrap things up.
-//:
-//:[Previous](@previous)  |  page 11 of 16  |  [Next: Wrapup](@next)
+//:[上一页](@previous)  |  第11页，共16页  |  [下一页: 总结](@next)

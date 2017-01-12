@@ -1,18 +1,18 @@
-//: ## Viewing Playground Results
-//: What if you define a long string in a playground? You’ll notice that the longer string is cut off at the end in the results sidebar. 👉
-//:
+//: ## 查看Playground运行的结果
+//: 如果你在playground中定义了一个很长的字符串，会出现什么情况呢？你会在结果栏中看到字符串没有完整的显示出来。 👉
+//: 
 let spelledOutNumber = "six"
 let meal = "breakfast"
 let aliceQuotation = "Why, sometimes I’ve believed as many as \(spelledOutNumber) impossible things before \(meal)!"
-//: In the results sidebar, move the cursor over the line that begins “Why, sometimes I’ve believed…”. When you do, that result will be highlighted and two controls will appear:
+//: 在结果栏中，将光标移动到“Why, sometimes I’ve believed…”上。这时，结果就会高亮显示，并且会出现两个按钮:
 //:
 //: ![Sidebard Controls](SidebarControls.png)
-//: Click the control that looks like an eye. This is the QuickLook control. A popover will appear showing you the full string value.
+//: 点击看起来像眼睛的那个按钮，这是快速浏览按钮。这时将出现一个弹出窗口，显示完整的字符串的值。
 //: 
-//: Move the cursor over the control that looks like an empty circle. A plus sign will appear - this is the _show result_ button. If you click the plus sign, the result of that line of code is added directly below the code. You can click this control again, which will now look like an x, to hide the result.
+//: 将光标移动到看起来像圆圈的按钮上。这时会出现加号，这是显示结果按钮。如果你单击加号，结果就会直接添加到代码的下面，同时加号会变成一个x。再次单击x按钮，结果就会隐藏起来。
+//: 
+//: 现在，让字符串的结果继续显示在那里。更改spelledOutNumber和meal的值。注意观察playground中的结果会发生什么变化。
+//: 
+//: 在下一页，一起来瞧一瞧字符串更多的功能。
 //:
-//: For now, leave the result of the long string showing. Change the values of the spelled out number and the meal. Notice how the result changes inline in the playground.
-//:
-//: On the next page, take these strings even further.
-//:
-//:[Previous](@previous)  |  page 8 of 16  |  [Next: More Than Strings](@next)
+//:[上一页](@previous)  |  第8页，共16页  |  [下一页: 屌炸天的字符串](@next)

@@ -1,22 +1,22 @@
-//: ## Fill In The Blanks
-//: Combining strings by adding them together works very well. You may have noticed, however, that you needed to remember to add spaces between the words. Otherwise the words all run together:
-// Forgot to add the space between the first name and last name.
+//: ## 填空
+//: 通过加号将字符串拼接在一起已经很赞了。但是你需要记住在单词之间添加空格。否则所有的词都会挤在一起:
+// 忘记在名字和姓氏之间添加空格。
 let fullName = "Johnny" + "Appleseed"
-//:
-//: Imagine an app that welcomes the user when they arrive in a new city. You want the string to say something like:\
-//: _Hello Tara, welcome to Paris!_\
-//: You could build that string by adding strings together, but it gets a little complicated:
-//:
+//: 
+//: 假如有一个App。当用户到达一个新城市的时候，App会显示一串欢迎用户的文字。比如:
+//: Hello Tara, welcome to Paris! \
+//: 你可以通过加号把字符串拼接在一起，但它有点复杂:
+//: 
 let firstName = "Tara"
 let city = "Paris"
 let welcomeString = "Hello " + firstName + ", welcome to " + city + "!"
-//:
-//: For building more complex strings like this, it would be useful to have a way to define a fill-in-the-blanks string. Something like this:
-//:
+//: 
+//: 对于这样比较复杂的字符串，可以通过填空的方式来创建字符串。比如这样:
+//: 
 //: “Hello _______, welcome to _______!”
-//:
-//: Swift has a way to do this. The official name for this is _string interpolation_. This sounds complicated and difficult, but it’s basically just fill-in-the-blanks.
-//:
-//: Move on to see how to do this in Swift.
-//:
-//:[Previous](@previous)  |  page 6 of 16  |  [Next: String Interpolation](@next)
+//: 
+//: Swift有一种方法来做到这一点。装逼的叫法是字符串插值（string interpolation）。这听起来很拗口，简单的说就是填空。
+//: 
+//: 接下来继续看看如何在Swift中做到这一点。
+//: 
+//:[上一页](@previous)  |  第6页，共16页  |  [下一页：字符串插值](@next)

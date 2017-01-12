@@ -1,18 +1,18 @@
-//: ## Characters
-//: Of course, text can contain more than just letters: There are punctuation marks, numbers, symbols, even spaces. All of these things are known as _characters_, and _strings_ are made up of _characters_.
-//:
-//: Letters are characters:
+//: ## 字符
+//: 当然，文本不仅仅只包含字母: 还有标点符号，数字，符号，甚至空格。所有这些东西都称为字符（characters），字符串是由字符组成的。
+//: 
+//: 字母是一种字符:
 //: ## Aa Bb Cc Dd Ee
-//: So are punctuation marks:
-//: ## ! ? . , ; :
-//: Numbers:
+//: 标点也是一种字符:
+//: ## ！ ？ 。 ，; :
+//: 数字:
 //: ## 1 2 3 4 5 6 7 8 9 0
-//: Symbols:
+//: 符号: 
 //: ## # @ $ & © π * + - /
-//: Even invisible characters like spaces and tabs:\
-//: _(You can’t see them, but they’re there.)_
+//: 即使是不可见的字符，如空格和制表符:\
+//: （你不能看到他们，但他们就在那里。）
 //: ## `                         `
 //:
 //:
-//: Now that you know about the pieces, it’s time to build some strings.\
-//:[Previous](@previous)  |  page 2 of 16  |  [Next: Defining Strings](@next)
+//: 目前为止你已经知道什么是字符串了。那么接下来，让我们一起动手写一些字符串。\
+//:[上一页](@previous)  |  第2页，共16页  |  [下一页：定义字符串](@next)
