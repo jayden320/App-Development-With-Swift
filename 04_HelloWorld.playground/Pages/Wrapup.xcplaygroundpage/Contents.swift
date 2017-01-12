@@ -1,15 +1,15 @@
 /*:
- ## Wrapup
+ ## 总结
  
- The console is a tool programmers use to display information about a program.
+ 控制台是程序员用来显示程序信息的工具。
  
- You’ve learned how to show the console and how to use `print` to display all kinds of information in it.
+ 你已经学会了如何打开控制台，如何使用`print`来显示各种各样的信息。
  
- You’ve learned that the results sidebar is not available to you unless you’re in a playground, so `print` and the console is a great way to find out what’s happening when you’re building an app.
+ 你已经知道了结果栏只能在playground中使用，在开发App的时候，是不可用的。所以`print`和控制台可以帮助你很好的了解App在运行过程中发生了什么。
  
- And just in time, too. In the next lesson of _App Development With Swift_, you’ll get started making your first app.
+ 刚好，我们将在App Development With Swift的下一课中，开始开发我们的第一个App。
  
- Continue in this playground for some exercises. 
+ 下面，让我们继续在这个playground上进行一些练习。
  
-[Previous](@previous)  |  page 9 of 11  |  [Next: Exercise: Debugging](@next)
+[上一页](@previous)  |  第9页，共10页  |  [下一页：练习：基于控制台的App](@next)
  */

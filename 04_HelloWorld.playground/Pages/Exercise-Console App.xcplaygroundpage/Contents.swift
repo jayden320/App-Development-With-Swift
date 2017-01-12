@@ -1,15 +1,21 @@
 /*:
- ## Exercise: The Console App
+ ## 练习：基于控制台的App
  
- What kinds of messages can someone send to a console?
+ 我们可以向控制台发送什么类型的消息呢？
  
- You can peek at some of the messages other programmers decided to print on your Mac by opening Finder and going to Applications > Utilities > Console. You'll see a stream of text that looks like mostly nonsense. These are private messages among developers — who usually use in-group sayings that only people very familiar with each app will understand.
+ 你可以偷看一下其他程序员在你的Mac上打印了哪些日志。打开Finder，进入应用程序 > 实用程序 > 控制台。你会看到一堆的文本，看起来像天书一样。这些是开发人员之间的私人消息 - 通常只有非常熟悉每个应用程序的人才能理解这些日志的含义。
  
- Watch some messages scroll by, then go ahead and quit the Console app.
+ 偷瞄完其他人的日志，现在退出控制台，让我们继续前进。
  */
 /*:
  _Copyright (C) 2016 Apple Inc. All Rights Reserved.\
  See LICENSE.txt for this sample’s licensing information._
  
-[Previous](@previous)  |  page 11 of 11
+[上一页](@previous)  |  第10页，共10页
+ */
+
+/*:
+ 翻译:素敌\
+ Github:\
+ https://github.com/huanxsd/App-Development-With-Swift
  */

@@ -1,22 +1,22 @@
 /*:
- ## Logging
+ ## 日志
  
- You may have heard of a captain’s log, where a seafaring (or spacefaring) captain records all the day-to-day info about the running of the ship. But did you know that apps can have logs, too?
+ 你可能听说过船长的日志，船长会每天记录所有关于航行的日常信息。但你知道App也可以有日志吗？
  
- When coders print messages to the console, it’s usually to record, or to _log_, information about a program as it runs. Printing messages to the console is known as _logging_ and the messages are sometimes called _log messages_.
+ 程序员将消息打印到控制台，通常是为了记录程序运行的轨迹或重要信息。被打印到控制台的消息通常称为日志（logging），消息有时被称为日志消息（log messages）。
  
- Programmers often use log messages to indicate that something has gone wrong or that something unexpected has happened. As you’ll see below, messages can provide warnings and help diagnose problems.
+ 程序员经常在程序出现问题或者发生意外情况的时候使用日志。如下所示，消息可以提供警告和帮助诊断问题的信息。
  
- - callout(Experiment):
- Open up the results sidebar, then try changing the numbers in the `addToScore()` statements below. What’s the maximum number of points you can reach with no printed warnings?
+ - callout(练习):
+ 打开结果栏，然后尝试更改下面的`addToScore()`语句中的数字。当数字最大等于多少的时候，控制台才不会有警告信息呢？
  */
 
 addToScore(12)
 addToScore(2)
 addToScore(1)
-
-/*:
- Once you’ve maximized your points, go ahead and hide the results sidebar. You’re going retro again.
  
-[Previous](@previous)  |  page 8 of 11  |  [Next: Wrapup](@next)
+/*:
+  一旦你找到了最大的数，我们继续把结果栏隐藏起来。你又要开始怀旧风了。
+ 
+[上一页](@previous)  |  第8页，共10页  |  [下一页：总结](@next)
 */

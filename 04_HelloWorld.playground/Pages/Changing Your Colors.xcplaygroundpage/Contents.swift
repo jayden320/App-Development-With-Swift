@@ -1,21 +1,21 @@
 /*: 
- ## Changing Your Colors
-
-Many programmers like to set up their computing environment in a style that feels comfortable.  In Xcode, you can make changes to your environment by selecting Xcode > Preferences… from the menu bar:
+ ## 改变你的颜色
+ 
+ 很多程序员喜欢以一种感觉舒适的风格来设置他们的开发环境。在Xcode中，你可以通过从菜单栏中选择Xcode> Preferences... 来更改你的环境：
 
  ![Menu bar with 'Xcode' menu open ](xcode-preferences.png)
 
-In the Preferences window, choose the Fonts & Colors tab, and make sure Source Editor is selected:
+ 在Preferences窗口中，选择Fonts & Colors，并确保选中了Source Editor：
 
  ![Xcode preferences pane showing "Fonts and Colors" tab](xcode-pref-fonts-and-colors.png)
 
 
-To get a feel for a totally retro style, choose one of the three options with a dark background: Civic, Dusk or Midnight:
+ 要想有一个复古的风格，可以选择深色背景的主题：Civic, Dusk or Midnight：
 
  ![Xcode preferences pane showing "Fonts and Colors" with "Dusk" option selected](xcode-pref-dusk-color.png)
 
 
-Did this change make the code hard to read? No problem: These are _your_ preferences, and you can make your code look however you’d like. But if you can still read the code with this dark background, stick with it for the next few playground pages—where you’ll add some other old-fashioned effects.
+ 这个主题是否使你的代码不容易阅读了？没关系：这些主题你可以在以后随便更改，直到你觉得代码看起来舒服了。但是现在暂时先使用这几个黑色背景的主题，我们接下来会为它添加一些其他复古的效果。
  
-[Previous](@previous)  |  page 2 of 11  |  [Next: Hide the Results Sidebar](@next)
+[上一页](@previous)  |  第2页，共10页  |  [下一页：隐藏结果栏](@next)
 */

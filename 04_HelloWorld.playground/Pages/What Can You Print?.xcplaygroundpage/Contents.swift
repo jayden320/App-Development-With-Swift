@@ -1,42 +1,45 @@
 /*:
- ## What Can You Print?
+ ## 你能打印什么？
  
- Anything that you’d see in the results sidebar, you can `print` to the console.
+ 在结果栏中看到的任何内容都可以`打印`到控制台。
  
- Open the results sidebar and confirm this for yourself by checking the examples.
+ 打开结果栏，以便于我们检查下面的代码是否正确。
  
- > The `\n` you see in the results sidebar for the print statements is because `print` adds a new line at the end of the string. Otherwise the console would have everything printed on the same line.
+ > 在打印语句的结果栏中会看到的`\n`，这是因为`print`会自动在字符串的末尾添加一个换行符。否则的话控制台会将所有内容打印在同一行上。
  
- You can print strings:
+ 你可以这样打印字符串:
 */
 "Hello, world!"
 print("Hello, world!")
-//: Numbers and calculations:
+
+//: 数字和计算式子：
 8
 print(8)
 7 + 11
 print(7 + 11)
-//: String expressions:
+
+//: 字符串表达式：
 "Have you seen" + "..." + "nevermind."
 print("Have you seen" + "..." + "nevermind.")
-//: Constants:
+
+//: 常量：
 let authorName = "Beatrix Potter"
 print(authorName)
 let bookTitle = "Jemima Puddleduck"
 print(bookTitle)
 /*:
- The result of whatever’s inside the parentheses will appear in the console.
- 
- - callout(Experiment): Look for the following statements in the results sidebar, then make each statement print to the console, following the example.\
-Before:\
-`authorName`\
-After:\
-`print(authorName)`
+  括号内的所有代码的结果都会显示在控制台中。
+  
+ - callout(练习): 在结果栏中找到以下代码的结果，然后像示例代码一样，将每个语句打印到控制台。\
+修改前: \
+ `authorName` \
+修改后: \
+ `print(authorName)`
 */
 authorName
 "authorName"
 "Did you know that \(bookTitle) was written by \(authorName)?"
-
-//:Next, find out a common use for the console. 
+ 
+//: 接下来，一起学习控制台的常见用法。
 //:
-//: [Previous](@previous)  |  page 7 of 11  |  [Next: Logging](@next)
+//: [上一页](@previous)  |  第7页，共10页  |  [下一页: 日志](@next)

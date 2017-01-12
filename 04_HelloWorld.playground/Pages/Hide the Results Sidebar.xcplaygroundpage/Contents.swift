@@ -1,26 +1,26 @@
 /*:
-## Hide the Results Sidebar
+## 隐藏结果栏
+  
+ 你还记得结果栏吗，它一直默默的为你显示计算的答案。 👉 */
+ let sum = 1 + 2 + 3 + 4 + 5123
+ let product = sum * sum
  
-Remember the trusty results sidebar and how it automatically shows the answers to any calculations you enter? 👉 */
-let sum = 1 + 2 + 3 + 4 + 5123
-let product = sum * sum
-
-/*: 
- To continue in the spirit of old-time programming, you’ll need to hide that sidebar. Mouse over its left edge slowly, until the cursor turns into a double-headed arrow:
+/*:
+  本着怀旧编程的精神，你现在需要隐藏结果栏。慢慢的把鼠标往右边缘移动，直到光标变成双头箭头的样子：
  
  ![resize cursor](resize-cursor.png)
  
- Then click and drag that edge to the right until the sidebar is too small to see the whole calculation result.
-
+  然后单击并向右边缘拖动，直到结果栏无法显示计算结果。
+ 
    ![playgrounds results window hidden](xcode-results-hidden.png)
  
- Drag it open and shut a few times more, just so you remember how to bring it back later.
+  把结果栏打开关闭几次，这样你以后就记得怎么把它带回来。
  
- - callout(Experiment):
- Change some of the numbers above. Change 5 into 23857, change 3 to 11, or to any other number. Without the results sidebar, you have to guess what the result will be.
+ - callout(练习):
+  更改上面的一些数字。将5更改为23857，将3更改为11，或更改为其他数字。没有结果栏，你只能猜测结果是什么了。
  
- Do you miss the results sidebar? Even in this old-fashioned world, you still have a powerful tool for investigating the state of your program.
-
- Turn to the next page to meet the console.✨
+  你开始想念结果栏了吗？即使在这个复古的世界中，你仍然有一个强大的工具来查看程序的状态。
+ 
+  转到下一页，控制台要闪亮登场了！✨
  */
-//: [Previous](@previous)  |  page 3 of 11  |  [Next: The Console](@next)
+//: [上一页](@previous)  |  第3页，共10页  |  [下一页：控制台](@next)

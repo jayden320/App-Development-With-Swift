@@ -1,21 +1,21 @@
 /*:
- ## Messages from Programmers
+ ## 来自程序员的消息
+
+  既然我们已经有了一个完美的结果栏，为什么还需要把消息输出到控制台呢？
  
- Why would you want to print to the console when you have a perfectly good results sidebar?
-
- - The results sidebar is a feature of playgrounds. When you’re making apps in Xcode, you don’t get a results sidebar.
- - The results sidebar can only show a small amount of information, on a single line.
- - If you’re using code that was written by other people, the console is where you’ll see their direct messages about their code. For example, try uncommenting the line below and checking the console output:
+ - 结果栏是playgrounds的一个功能。当你在Xcode中开发App的时候，是没有结果栏的。
+ - 结果栏只能在一行上显示少量信息。
+ - 如果你正在使用的别人写的代码，那么控制台会打印出于代码的相关信息。例如，尝试取消下面那行代码的注释，然后检查控制台的输出：
  */
-//theAnswer
-
+ //答案
+ 
 /*:
- That was a lot of console noise! Remember, you can either drag the top bar up to make the console area bigger, or scroll vertically through the text if it doesn’t all fit.
- 
+  这里的控制台显示了很多乱七八糟的东西！请记住，你可以向上拖动控制台的顶部栏，来改变控制台区域的大小。也可以上下滚动鼠标的滑轮。
+  
  - note:
- Your Xcode setup might open the console every time it has a message. If you like, you can leave it open while you work. But if you find that the console area is getting in the way of your code, you can always drag the top bar to make it shorter.
-
- Next, find out what you can send to the console.
+  你的Xcode可能会在每次有消息时自动打开控制台。如果你觉得这样挺好的，那你可以在工作时把它打开。但是如果你觉得控制台区遮住了你的代码，你可以随时拖动控制台的顶部，让它变小。
  
-[Previous](@previous)  |  page 6 of 11  |  [Next: What Can You Print?](@next)
- */
+  接下来，看看我们可以向控制台发送哪些内容。
+ 
+[上一页](@previous)  |  第6页，共10页  |  [下一页：你能打印什么？](@next)
+*/

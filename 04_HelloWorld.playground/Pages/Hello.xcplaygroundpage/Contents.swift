@@ -2,25 +2,24 @@
 /*:
  ## Hello
 
- The `print` command tells a Swift program to send a message to the console. You can use it with a string like this:
-
-`print("Testing, one two three.")`
-
- You now get to craft the first message you’ll send to the console. Most programmers, whether learning their first programming language or their fiftieth, choose to start with a friendly “hello.”
+  `print`命令告诉Swift，程序需要向控制台发送消息。你可以这样使用：
  
- But not just a generic hello. For their first hello, programmers typically go for the grander gesture and greet the whole world. This is the long-standing tradition you learned about earlier in this lesson.
+ `print("Testing, one two three.")`
  
+  你现在可以向控制台发送你的第一条消息了。不管是第一次学习编程语言的新人，还是第五十次学习编程语言的老司机，都会以一个友好的“hello.”开始。
  
- It’s time now to greet the console with a cheerful “Hello, world!” To truly participate in the ritual, you must use those two words exactly, but it’s OK to punctuate them however you’d like.
-
- - callout(Experiment: Hello, world):
- Type the `print` command as in the example code above, with your own “Hello, world!” greeting inside the parentheses.
+  但这不只是一个普通的问候。对于他们的第一个问候，程序员通常会用更大的姿态去迎接新的世界。这就是你在本课前面学到的传统仪式。
+ 
+  现在是时候用欢快的“Hello, world!”去迎接新的世界了！要真正参与仪式，你必须使用这两个词，但你可以加上你自己的标点符号。
+ 
+ - callout(练习: Hello, world):
+  输入上面示例代码中的print命令，在括号输入你自己的“Hello,world！”。
  */
-
-// Add your greeting just below this line, and watch it appear in the console:
-print("Hello World")
+ 
+ //在此行下面添加你的问候语，并观察控制台：
+ print("Hello World")
 
 /*:
- Congratulations and welcome! It may seem like a lot of fuss over a single line of code, but you’re now part of a long programming tradition. Feel free to capture the moment with a selfie of yourself and the screen.
+  欢迎来到新世界！对于一行简单的代码来说，这看起来有点小题大做了，但你现在已经确确实实踏上编程的旅程了。
 */
-//: [Previous](@previous)  |  page 5 of 11  |  [Next: Messages from Programmers](@next)
+//: [上一页](@previous)  |  第5页，共10页  |  [下一页：程序员发来的消息](@next)

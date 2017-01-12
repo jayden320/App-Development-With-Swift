@@ -20,4 +20,4 @@ https://itun.es/hk/aVbRcb.l
 
 赏2块钱买泡面
 
-<img src="https://github.com/huanxsd/App-Development-With-Swift/blob/master/donate.png" alt="donate" title="donate" width="480">
+<img src="https://github.com/huanxsd/App-Development-With-Swift/blob/master/donate.png" alt="donate" title="donate" width="400">

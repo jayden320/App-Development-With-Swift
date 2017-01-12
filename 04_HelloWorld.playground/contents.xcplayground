@@ -10,7 +10,6 @@
         <page name='What Can You Print?'/>
         <page name='Logging'/>
         <page name='Wrapup'/>
-        <page name='Exercise-Debugging'/>
         <page name='Exercise-Console App'/>
     </pages>
 </playground>
