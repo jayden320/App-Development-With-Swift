@@ -1,6 +1,6 @@
 # App-Development-With-Swift
 App Development With Swift中文版
-因为时间有限，目前只翻译源码
+warning:我不学swift，改学java script去了，终止更新
 
 翻译进度：第四章
 
